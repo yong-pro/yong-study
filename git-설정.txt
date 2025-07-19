@@ -10,12 +10,12 @@ git remote add origin https://JunHyeongKim73:<NEW_TOKEN>@github.com/JunHyeongKim
 
 
 
-test
 git remote add origin https://yong-pro:DfdsssO3KgDBM@github.com/yong-pro/yong-study.git
 
 
 
-test2
-o
+git pull --ff-only
 
-test ----- 1
+
+
+
