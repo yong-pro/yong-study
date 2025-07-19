@@ -12,4 +12,4 @@ git remote add origin https://JunHyeongKim73:<NEW_TOKEN>@github.com/JunHyeongKim
 
 git pull --ff-only
 
-git merge --no-ff
+git merge --no-ff -==== 안되
