@@ -24,5 +24,8 @@ git config --global core.quotepath false -- git 한글 설정
 
 main 브랜치
 
+메인 
+
+
 추가
 
