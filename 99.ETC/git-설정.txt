@@ -7,3 +7,9 @@ git clone https://JunHyeongKim73:<TOKEN>@github.com/JunHyeongKim73/everytime_scr
 git remote remove origin
 git remote add origin https://JunHyeongKim73:<NEW_TOKEN>@github.com/JunHyeongKim73/everytime_scraper.git
 출처: https://gibro.tistory.com/9 [지브로의 개발 블로그:티스토리]
+
+
+
+git pull --ff-only
+
+git merge --no-ff
