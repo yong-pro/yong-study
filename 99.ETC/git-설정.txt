@@ -13,3 +13,9 @@ git remote add origin https://JunHyeongKim73:<NEW_TOKEN>@github.com/JunHyeongKim
 git pull --ff-only
 
 git merge --no-ff
+
+
+git config --global core.editor "vi"
+
+
+git config --global core.quotepath false -- git 한글 설정
