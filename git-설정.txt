@@ -17,4 +17,7 @@ git remote add origin https://yong-pro:DfdsssO3KgDBM@github.com/yong-pro/yong-st
 git pull --ff-only
 
 
+먼저 push 1
+
 나중에 커밋 2--
+
