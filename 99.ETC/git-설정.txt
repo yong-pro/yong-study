@@ -43,3 +43,6 @@ main 브랜치
 
 
 squash -1
+
+
+squash -2
