@@ -42,24 +42,9 @@ main 브랜치
 20250720 - 4 main 로칼 수정
 
 
-squash -1 1
+local branch 1
 
 
+local branch 2
 
-squash -2 2
-
-
-squash -3 3
-
-
-squash -4 3
-
-squash -5 3
-
-
-squash -6 3
-
-squash -7 3
-
-
-
+local branch 3
