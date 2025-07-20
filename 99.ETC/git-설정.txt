@@ -49,3 +49,10 @@ squash -2 2
 
 
 squash -3 3
+
+
+squash -4 3
+
+
+
+
