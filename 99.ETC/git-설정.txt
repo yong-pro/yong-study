@@ -53,6 +53,10 @@ squash -3 3
 
 squash -4 3
 
+squash -5 3
 
 
+squash -6 3
+
+squash -7 3
 
