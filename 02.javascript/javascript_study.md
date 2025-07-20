@@ -54,3 +54,6 @@
 	생성자 함수 내부의 this는 생성된 객체를 참조한다.
 	DOM event handler로 사용되는 함수 내부의 this는 이벤트가 발생한 element로 설정된다. 
 	외부참조를 위해서는 call, bind 에 this파라메터로 외부 this참조할수있다.
+
+
+11
