@@ -71,4 +71,8 @@ main 1
 
 
 
+<<<<<<< HEAD
 s kk ss 
+=======
+2025 -333333333-2222ssss 22ss
+>>>>>>> refs/remotes/origin/main
