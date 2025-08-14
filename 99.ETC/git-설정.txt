@@ -74,6 +74,7 @@ main 1
 s kk ss 
 2025 -333333333-2222ssss 22ss
 sss 2   sdfs  2222222222
+<<<<<<< Updated upstream
 sdfsdf
 22222
 
@@ -84,4 +85,9 @@ sdfsdf
 
 
 
-1 2 임시 staash 22 33
+임시 staash  22  33
+
+sdfsdf
+22222
+sdfsdf
+
